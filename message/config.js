@@ -4,9 +4,9 @@ const fs = require("fs");
 const Creator = "Guntur P";
 const watermark = "WM dari Guntur";
 const namaOwner = "GunturP";
-const NomorOwner = ['6281335910842'];
-const namaBot = "GUNTUR assistant";
-const author = "Guntur P";
+const NomorOwner = ['6283177967497'];
+const namaBot = "lyfbot";
+const author = "lefy";
 const packname = "Stick me";
 const thumbnail = fs.readFileSync("./media/image/thumbnail.png");
 const fakeImage = fs.readFileSync("./media/image/fake.png");
@@ -19,7 +19,7 @@ const p_nonprefix = false;
 const p_prefix = '/';
 
 const browserDescription = {
-  set_name: "Guntur P",
+  set_name: "lefy",
   set_browser: "Chrome"
 }
 
