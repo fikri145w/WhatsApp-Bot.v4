@@ -1,11 +1,11 @@
 'use strict';
 const fs = require("fs");
 
-const Creator = "Guntur P";
+const Creator = "lefy";
 const watermark = "WM dari Guntur";
 const namaOwner = "GunturP";
-const NomorOwner = ['6281335910842'];
-const namaBot = "GUNTUR assistant";
+const NomorOwner = ['6283177967497];
+const namaBot = "lefybot";
 const author = "Guntur P";
 const packname = "Stick me";
 const thumbnail = fs.readFileSync("./media/image/thumbnail.png");
@@ -19,7 +19,7 @@ const p_nonprefix = false;
 const p_prefix = '/';
 
 const browserDescription = {
-  set_name: "Guntur P",
+  set_name: lefybot",
   set_browser: "Chrome"
 }
 
